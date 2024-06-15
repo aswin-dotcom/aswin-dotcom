@@ -6,7 +6,6 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 - 👯 I’m looking for an Developer Role.<br/> <br/>
 - 💬 Ask me about Tech.<br/> <br/>
 - 📫 How to reach me : <br/> <br/>
-- 📫 How to reach me : <br/> <br/>
    <a href="mailto:aswin42samuel7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
