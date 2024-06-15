@@ -19,6 +19,16 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/><img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
 
 
+## Problem Solving:
+
+### [Skill Rack](https://rb.gy/95w1x6) : 
+- PROGRAMS SOLVED : 1366
+> C-Programming : 638 <br/>
+> Python : 405<br/>
+> JAVA : 270<br/>
+> SQL : 53<br/>
+
+
 
 
 
