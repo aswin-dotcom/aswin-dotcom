@@ -21,12 +21,12 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 
 ## Problem Solving:
 
-### [Skill Rack](https://rb.gy/95w1x6) : 
+### [Skill Rack](https://www.skillrack.com/faces/resume.xhtml?id=373306&key=a0839b6ae5184cece9d32c0a3465a9d0d0121fde) : 
 - PROGRAMS SOLVED : 1366
-> C-Programming : 638 <br/>
-> Python : 405<br/>
-> JAVA : 270<br/>
-> SQL : 53<br/>
+> C-Programming : 149 <br/>
+> Python : 30<br/>
+> JAVA : 173<br/>
+
 
 
 
