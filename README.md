@@ -22,18 +22,12 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 ## Problem Solving:
 
 ### [Skill Rack](https://www.skillrack.com/faces/resume.xhtml?id=373306&key=a0839b6ae5184cece9d32c0a3465a9d0d0121fde) : 
-- PROGRAMS SOLVED : 1366
 > C-Programming : 149 <br/>
 > Python : 30<br/>
 > JAVA : 173<br/>
 
+### [Leetcode](https://leetcode.com/u/aswin42samuel7/) :
+(![LeetCode Stats](https://leetcode.card.workers.dev/aswin42samuel7?theme=dark&font=baloo&extension=activity))
 
 
-
-
-
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
