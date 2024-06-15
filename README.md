@@ -27,7 +27,11 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 > JAVA : 173<br/>
 
 ### [Leetcode](https://leetcode.com/u/aswin42samuel7/) :
-(![LeetCode Stats](https://leetcode.card.workers.dev/aswin42samuel7?theme=dark&font=baloo&extension=activity))
+(https://leetcode.card.workers.dev/aswin42samuel7?theme=dark&font=baloo&extension=activity)
+
+
+### [GitHub](https://github.com/aswin-dotcom) :
+
 
 
  
