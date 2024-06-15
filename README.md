@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>                                 
-- 👨‍💻 I’m good in Full Stack Development.<br/> <br/>
+. 👨‍💻 I’m good in Full Stack Development.<br/> <br/>
 - 👯 I’m looking for an Developer Role.<br/> <br/>
 - 💬 Ask me about Tech.<br/> <br/>
 - 📫 How to reach me : <br/> <br/>
