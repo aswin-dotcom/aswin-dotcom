@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Aswin Samuvel
 
-<img align="right" width="370" height="290" src="https://media.tumblr.com/tumblr_lgjnk6BanP1qcnhhzo1_r1_500.gif">
+<img align="right" width="370" height="290" src="https://media.licdn.com/dms/image/C5612AQFNN6d_3KqADA/article-cover_image-shrink_600_2000/0/1627132660233?e=2147483647&v=beta&t=fw1Apion3whHAoEbjADZ5sZ30Q3RCM8cTazrptai4bg">
 Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>                                 
 - 👨‍💻 I’m good in Full Stack Development.<br/> <br/>
 - 👯 I’m looking for an Developer Role.<br/> <br/>
