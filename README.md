@@ -9,7 +9,7 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-cj/) 
- <a href="mailto:aswin42samuel7@gmail.com"><img src="https://img.shields.io/badge/Email-aswin42samuel7%40example.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+ <a href="mailto:aswin42samuel7@gmail.com"><img src="https://img.shields.io/badge/Email-aswin42samuel@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 
 
 # 💻 Tech Stack:
